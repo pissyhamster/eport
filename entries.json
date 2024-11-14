@@ -1,0 +1,17 @@
+{
+  "entries": [
+    {
+      "name": "Notes: Logic Gates",
+      "type": "notes",
+      "date": "11/10/2024",
+      "details": "Basic notes on digital logic gates.",
+      "bulletPoints": [
+        "AND gate produces high output only if both inputs are high.",
+        "OR gate produces high output if any input is high."
+      ],
+      "pdfs": [],
+      "images": [],
+      "videos": []
+    }
+  ]
+}
