@@ -4,33 +4,15 @@
       "name": "First Time Multisim",
       "type": "Notes",
       "date": "09/13/2024",
-      "class": "Digital Electronics 2024-2025",
-      "details": "Notes on logic gates covering the basics of AND, OR, NOT, and XOR operations.",
-      "bulletPoints": [
-        "AND gate produces a high output only if both inputs are high.",
-        "OR gate produces a high output if at least one input is high.",
-        "NOT gate inverts the input.",
-        "XOR gate produces a high output if only one of the inputs is high."
-      ],
+      "class": "DE 2024-2025",
+      "details": "First time using Multisim, this activity was meant to help us learn how to use NI Multisim software.",
+      "bulletPoints": [],
       "pdfs": [
         "entries/9-13-24/pdf1.pdf"
       ],
       "images": [
         "entries/9-13-24/image1.png"
       ],
-      "videos": []
-    },
-    {
-      "name": "Logic Gates Notes",
-      "type": "Notes",
-      "date": "11/10/2024",
-      "details": "Basic notes on digital logic gates.",
-      "bulletPoints": [
-        "AND gate produces high output only if both inputs are high.",
-        "OR gate produces high output if any input is high."
-      ],
-      "pdfs": [],
-      "images": [],
       "videos": []
     }
   ]
