@@ -2,9 +2,9 @@
   "entries": [
     {
       "name": "First Time Multisim",
-      "type": "notes",
+      "type": "Notes",
       "date": "09/13/2024",
-      "class": "Digital Electronics",
+      "class": "Digital Electronics 2024-2025",
       "details": "Notes on logic gates covering the basics of AND, OR, NOT, and XOR operations.",
       "bulletPoints": [
         "AND gate produces a high output only if both inputs are high.",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Logic Gates Notes",
-      "type": "notes",
+      "type": "Notes",
       "date": "11/10/2024",
       "details": "Basic notes on digital logic gates.",
       "bulletPoints": [
