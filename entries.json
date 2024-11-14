@@ -1,7 +1,20 @@
 {
   "entries": [
     {
-      "name": "Notes: Logic Gates",
+      "name": "First Time Multisim",
+      "type": "notes",
+      "date": "11/10/2024",
+      "details": "Basic notes on digital logic gates.",
+      "bulletPoints": [
+        "AND gate produces high output only if both inputs are high.",
+        "OR gate produces high output if any input is high."
+      ],
+      "pdfs": ["https://drive.google.com/file/d/1sXYfbXRcOG6EbZ-9rdLKoh7P8UvJSB5V/view?usp=sharing"],
+      "images": ["https://drive.google.com/file/d/1JY1QK01cC9Fy67rsrylpKZJcKL2pm3zS/view?usp=sharing"],
+      "videos": []
+    },
+    {
+      "name": "Logic Gates Notes",
       "type": "notes",
       "date": "11/10/2024",
       "details": "Basic notes on digital logic gates.",
