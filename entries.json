@@ -16,6 +16,19 @@
       "videos": []
     },
     {
+      "name": "Basic Safety Notes",
+      "type": "Notes",
+      "date": "08/27/2024",
+      "class": "DE 2024-2025",
+      "details": "Basic Safety Notes",
+      "bulletPoints": ["Review general safety rules for the classroom and laboratory", "Review safety rules specific to possible electrical injures"],
+      "pdfs": [
+        "entries/8-27-26/pdf1.pdf"
+      ],
+      "images": [],
+      "videos": []
+    },
+    {
       "name": "Basic Circuit Notes",
       "type": "Notes",
       "date": "08/26/2024",
@@ -23,10 +36,10 @@
       "details": "Basic Circuit Notes",
       "bulletPoints": ["Introduce basic circuits and their symbols", "Introduce components and equipment that are fundamental to understanding circuits", "Define voltage, current, and resistance", "Prepare for Activity 1.1.2 Investigating Basic Circuits"],
       "pdfs": [
-        "entries/9-13-24/pdf1.pdf"
+        "entries/8-26-24/pdf1.pdf"
       ],
       "images": [],
       "videos": []
-    },
+    }
   ]
 }
