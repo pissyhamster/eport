@@ -3,7 +3,7 @@
     {
       "name": "First Time Multisim",
       "type": "Notes",
-      "date": "09/13/2024",
+      "date": "9/13/2024",
       "class": "DE 2024-2025",
       "details": "First time using Multisim, this activity was meant to help us learn how to use NI Multisim software.",
       "bulletPoints": [],
@@ -16,14 +16,53 @@
       "videos": []
     },
     {
+      "name": "Circuit Theory Notes",
+      "type": "Notes",
+      "date": "9/4/2024",
+      "class": "DE 2024-2025",
+      "details": "Circuit Theory Notes",
+      "bulletPoints": ["Review voltage, current, and resistance", "Review and apply Ohm’s Law", "Review series circuits", "Review and apply Kirchhoff’s Voltage Law", "Review parallel circuits", "Review and apply Kirchhoff’s Current Law"],
+      "pdfs": [
+        "entries/9-4-24/pdf1.pdf"
+      ],
+      "images": [],
+      "videos": []
+    },
+    {
+      "name": "Nikola Tesla Notes",
+      "type": "Notes",
+      "date": "9/3/2024",
+      "class": "DE 2024-2025",
+      "details": "Nikola Tesla Notes",
+      "bulletPoints": ["Learn about famous inventor Nikola Tesla and his life", "Learn about Alternating Current (AC)"],
+      "pdfs": [
+        "entries/9-3-24/pdf1.pdf"
+      ],
+      "images": [],
+      "videos": []
+    },
+    {
+      "name": "Analog Component Identification",
+      "type": "Notes",
+      "date": "8/30/2024",
+      "class": "DE 2024-2025",
+      "details": "Analog Component Identification",
+      "bulletPoints": ["Learn how to identify analog components"],
+      "pdfs": [
+        "entries/8-30-24/pdf1.pdf"
+      ],
+      "images": [],
+      "videos": []
+    },
+    {
       "name": "Basic Safety Notes",
       "type": "Notes",
-      "date": "08/27/2024",
+      "date": "8/27/2024",
       "class": "DE 2024-2025",
       "details": "Basic Safety Notes",
       "bulletPoints": ["Review general safety rules for the classroom and laboratory", "Review safety rules specific to possible electrical injures"],
       "pdfs": [
-        "entries/8-27-26/pdf1.pdf"
+        "entries/8-27-24/pdf1.pdf"
       ],
       "images": [],
       "videos": []
@@ -31,7 +70,7 @@
     {
       "name": "Basic Circuit Notes",
       "type": "Notes",
-      "date": "08/26/2024",
+      "date": "8/26/2024",
       "class": "DE 2024-2025",
       "details": "Basic Circuit Notes",
       "bulletPoints": ["Introduce basic circuits and their symbols", "Introduce components and equipment that are fundamental to understanding circuits", "Define voltage, current, and resistance", "Prepare for Activity 1.1.2 Investigating Basic Circuits"],
