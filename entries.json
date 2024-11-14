@@ -6,7 +6,7 @@
       "date": "09/13/2024",
       "class": "DE 2024-2025",
       "details": "First time using Multisim, this activity was meant to help us learn how to use NI Multisim software.",
-      "bulletPoints": [],
+      "bulletPoints": []
       "pdfs": [
         "entries/9-13-24/pdf1.pdf"
       ],
@@ -14,6 +14,19 @@
         "entries/9-13-24/image1.png"
       ],
       "videos": []
-    }
+    },
+    {
+      "name": "Basic Circuit Notes",
+      "type": "Notes",
+      "date": "08/26/2024",
+      "class": "DE 2024-2025",
+      "details": "Basic Circuit Notes",
+      "bulletPoints": ["Introduce basic circuits and their symbols", "Introduce components and equipment that are fundamental to understanding circuits", "Define voltage, current, and resistance", "Prepare for Activity 1.1.2 Investigating Basic Circuits"],
+      "pdfs": [
+        "entries/9-13-24/pdf1.pdf"
+      ],
+      "images": [],
+      "videos": []
+    },
   ]
 }
